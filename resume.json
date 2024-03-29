@@ -1,0 +1,55 @@
+let myResume={                                                  
+    "basics": {
+      "name": "MAHALAKSHMI S",
+      "email": "smahalakshmi884@gamil.com",
+      "phone": 7448428319,
+      "degree": "M.SC",
+      "location": {
+        "address": "902, MANIYAR STREET, MANAMELKUDI",
+        "postalCode": 614620,
+        "city": "PUDUKOTTAI",
+        "state": "TAMILNADU",
+        "country": "India"
+      },
+      "profiles": [
+        {
+    
+          "github":"https://github.com/Mahalakshmi884/TEST1.git"
+        }
+      ]
+    },
+    "work": [
+      {
+        "summary": "Fresher",
+      },
+    ],
+    "education": [
+      {
+        "institution": "Sri vengadeshwara arts and sccience college for women",
+        "department": "physics",
+        "studyType": "fulltime",
+        "batch start year": 2021,
+        "batch end year": 2023,
+        "gpa": 8.5,
+      }
+    ],
+    "skills": [
+      {
+        "course": "Full stack development",
+        "level": "beginer",
+        
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish",
+      }
+    ],
+    "interests": [
+      {
+        "name": "listening music, Arts and crafts",
+      }
+    ]
+  }
+  console.log(myResume);
+  
